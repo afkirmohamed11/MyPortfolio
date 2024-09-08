@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/mohamed-afkir-1bbb9729a',
   twitter: 'https://x.com/mohamed1910118?s=09',
   devUsername: "afkirmohamed",
-  resume: "https://drive.google.com/file/d/1BYfURDqi0B5VZprGzl4xSCBVGdjd_2n4/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/146WXKNfbybqIA_iiZ3iMvu0KOZrtXsMy/view?usp=sharing"
 }
