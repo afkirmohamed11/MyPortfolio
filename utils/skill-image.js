@@ -21,6 +21,7 @@ import kafka from '/public/svg/skills/kafka.svg';
 import machineLearning from '/public/svg/skills/machinelearning.jpeg';
 import deepLearning from '/public/svg/skills/deeplearning.svg';
 import nlp from '/public/svg/skills/nlp.jpeg';
+import aws from '/public/svg/skills/aws.jpg';
 
 
 
@@ -30,6 +31,8 @@ import nlp from '/public/svg/skills/nlp.jpeg';
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'aws':
+      return aws;
     case 'python':
       return python;
     case 'java':

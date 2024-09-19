@@ -1,4 +1,5 @@
 export const skillsData = [
+  'AWS',
   'Python',
   'Java',
   'SQL',
