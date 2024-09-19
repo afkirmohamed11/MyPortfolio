@@ -113,6 +113,7 @@ function HeroSection() {
               <span className="text-amber-300">SQL</span>
               <span className="text-gray-400">{"', '"}</span>
               <span className="text-amber-300">AWS</span>
+              <span className="text-gray-400">{"', '"}</span>
               <span className="text-amber-300">Apache Spark</span>
               <span className="text-gray-400">{"', '"}</span>
               <span className="text-amber-300">Apache Kafka</span>
