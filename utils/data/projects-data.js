@@ -17,7 +17,7 @@ export const projectsData = [
         role: 'Data Engineer',
         code: '',
         demo: '',
-        github_link: ''
+        github_link: 'https://github.com/afkirmohamed11/PatentDataAnalysisPipeline.git'
     },
     {
         id: 3,
