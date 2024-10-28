@@ -1,9 +1,9 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'Kafka Rental Streaming Data Pipeline',
-        description: "I built a real-time data pipeline for processing and analyzing Moroccan rental data. This pipeline extracts data from a PostgreSQL database, streams it through Apache Kafka, stores it in Amazon S3, and then makes it available for SQL-based analysis using Amazon Athena.",
-        tools: ['Python', 'Kafka', 'PostgreSQL', 'Amazon EC2', 'Amazon S3', 'AWS Glue Data Catalog', 'Amazon Athena'],
+        name: 'Kafka Rental Streaming Data Pipeline  using Kafka and Terraform',
+        description: "I built a real-time data pipeline for processing and analyzing Moroccan rental data. This pipeline extracts data from a PostgreSQL database, streams it through Apache Kafka, stores it in Amazon S3, and then makes it available for SQL-based analysis using Amazon Athena. The infrastructure was provisioned using Terraform.",
+        tools: ['Python', 'Kafka', 'Terraform', 'PostgreSQL', 'Amazon EC2', 'Amazon S3', 'AWS Glue Data Catalog', 'Amazon Athena'],
         role: 'Data Engineer',
         code: '',
         demo: '',
