@@ -10,4 +10,4 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/mohamed-afkir-1bbb9729a',
   twitter: 'https://x.com/mohamed1910118?s=09',
   devUsername: "afkirmohamed",
-  resume: "https://drive.google.com/file/d/1ZCwQfHPtUerj_Q0pJD_-MA3s45ZT7Xdq/view?usp=sharing"}
+  resume: "https://drive.google.com/file/d/147Kog_IU7JaTaSIVCa2sAzxYKFWcKa-5/view?usp=drive_link"}
