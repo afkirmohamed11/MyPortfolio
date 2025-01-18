@@ -13,7 +13,7 @@
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "next": "^14.0.0",
+    "next": "^14.0.0"  // Removed the trailing comma here
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
